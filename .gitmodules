@@ -1,0 +1,3 @@
+[submodule "homework-GIT"]
+	path = homework-GIT
+	url = https://github.com/matveyz/homework-GIT.git
